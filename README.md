@@ -30,3 +30,8 @@ fanbase means higher earnings, tougher competition, and increasing demand for de
 musician attributes will be obscured, and scouts will be able to estimate their values through ratings from 1-15, 
 with standard musicians falling in the 4-7 range, highly talented musicians being in the 8-10 range, and 
 generational talents being from 11-15 (with increasing potential ability requirements for each rating point above 10.)
+
+Notes for later:
+1. When initial band is generated, seems like same instruments are assigned in same order. Will require more testing
+and observation but make sure that musicians aren't poorly assigned due to defaultism when generating initial band
+2. 
