@@ -22,7 +22,8 @@ commercial viability, fanbase feedback, and industry impact.
 3. Giving musicians a desired wage based on their current ability, potential ability, and ego, as well as giving
 the player's record label some level of finances to control. Players must negotiate with their musicians in order
 to sign them, and must take care not to cost the label too much money lest they go bankrupt and have to fire the
-player.
+player. Musicians will have some level of interest in joining the player's label, which is determined by the level
+of success of the label as well as how closely the band matches that musician's preferences.
 4. Following a global industry that determines what genres are popular, niche, in decline, etc.; having a strong
 fanbase means higher earnings, tougher competition, and increasing demand for delivery.
 5. Using scouts and other label staff to view more detailed information about musicians, bands, and the industry--
