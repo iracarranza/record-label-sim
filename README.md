@@ -34,4 +34,8 @@ generational talents being from 11-15 (with increasing potential ability require
 Notes for later:
 1. When initial band is generated, seems like same instruments are assigned in same order. Will require more testing
 and observation but make sure that musicians aren't poorly assigned due to defaultism when generating initial band
-2. 
+2. Should slightly overhaul attributes and especially personalities to be less definitive - add some negative types
+and middling personalities ("Mildly" or "Fairly" prefix- possibly "Highly" or similar as well.)
+3. Also reduce the weight of "none" being assigned to songwriters or composers-- maybe also reduce the weight of 
+them generating in the first place? A strong songwriter/composer/producer should feel like much more of a commodity
+than a strong instrumentalist/vocalist.
