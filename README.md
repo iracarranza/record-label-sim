@@ -1,14 +1,16 @@
 This is a record-label management simulator, where the player takes control of a record label and must sign or
 fire musicians in order to record music, grow their label, and take over the industry. Current features include:
 
-1. Selecting starting genre and ensemble size
-2. Viewing attributes of musicians: current and potential ability, 15+ quantified personality traits, preferred
-instrument, band genres and sizes
-3. Continuously generating new musicians via the talent market, in which musicians of different instruments, 
+1. Selecting starting band name, genre and ensemble size
+2. Viewing attributes of musicians: current and potential ability, 15+ quantified musical attributes, preferred
+instrument, preferred role in band, preferred band genres and sizes.
+3. Musicians have various different personalities which each vary to different degrees. Their social styles,
+reliability, emotional styles, creative orientation, and desired career paths are designated.
+4. Continuously generating new musicians via the talent market, in which musicians of different instruments, 
 roles, and abilities can be temporarily viewed and signed
-4. Recruiting and removing musicians from player's band, and assigning them to different roles within each band
-5. Progressing time and viewing interactions between musicians via a weekly inbox
-6. Viewing overall band chemistry and roles fulfilled by each member
+5. Recruiting and removing musicians from player's band, and assigning them to different roles within each band
+6. Progressing time and viewing interactions between musicians via a weekly inbox
+7. Viewing and quantifying overall band chemistry and roles fulfilled by each member- role coverage, 
 
 Remaining features to implement are:
 1. Creating emergent dynamic relationships between musicians and record label that can improve or worsen 
